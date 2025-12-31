@@ -156,11 +156,6 @@ export const PROJECTS: Project[] = [
   {
     title: "Zero-Shot Object Counting: Reproducing the VA-Count Framework",
     githubLink: "https://github.com/nitin0497/Zero-Shot-Object-Counting",
-    visualIds: [
-      "/images/zero_shot_framework_diagram.png",
-      "/images/zsco-exemplars.png",
-      "/images/zero_shot_counting_examples.png"
-    ],
     description: "Implemented the VA-Count zero-shot object counting framework to enable class-agnostic object counting without human-labeled exemplars. Designed a scalable, data-efficient system requiring only object class names as input.",
     keyContributions: [
       {
@@ -188,10 +183,6 @@ export const PROJECTS: Project[] = [
   {
     title: "Object Recognition and Tracking: Classical & Deep Learning Computer Vision Pipelines",
     githubLink: "https://github.com/nitin0497/Object-Recognition-and-Tracking",
-    visualIds: [
-      "/images/Final_bubble_tracking_output.gif",
-      "/images/mnist_digit_recognition.png"
-    ],
     description: "Architected an end-to-end computer vision system integrating classical image processing with deep learning models to address real-world object recognition and tracking challenges.",
     keyContributions: [
       {
@@ -218,9 +209,6 @@ export const PROJECTS: Project[] = [
   {
     title: "Network Analysis of Stack Overflow: Impact of Generative AI on Online Knowledge Communities",
     githubLink: "https://github.com/nitin0497/Network-Analysis-of-StackOverflow",
-    visualIds: [
-      "/images/stackoverflow_network_analysis_chart.png"
-    ],
     description: "Investigated how the rapid adoption of Generative AI tools (e.g., ChatGPT) has altered user engagement, collaboration, and knowledge exchange in programming-focused online communities, utilizing Stack Overflow as the primary case study.",
     keyContributions: [
       {
@@ -249,9 +237,6 @@ export const PROJECTS: Project[] = [
   {
     title: "Modeling Financial Volatility with ARCH/GARCH",
     githubLink: "https://github.com/nitin0497/Volatility-Modeling",
-    visualIds: [
-      "/images/sp500_time_series_volatility.png"
-    ],
     description: "Modeled and forecasted time-varying volatility in financial markets using daily S&P 500 returns, addressing volatility clustering in financial time series through advanced econometric methods.",
     keyContributions: [
       {
