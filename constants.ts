@@ -8,9 +8,9 @@ export const CONTACT_INFO: ContactInfo = {
 };
 
 export const USER_INFORMATION = [
-"I am a Data Scientist and Applied AI Researcher with a strong foundation in statistics, engineering, and analytics. My work spans machine learning, causal inference, deep learning, and computer vision, with a demonstrated ability to deliver end-to-end AI systems across both academic research and industry settings."
-"I have specialized experience in causal inference under endogeneity, using structural path models and dynamic response frameworks to uncover and validate causal mechanisms in complex observational data. More recently, my work has focused on AI engineering and applied research in deep learning and computer vision, where I design scalable, data-efficient vision–language systems and build production-ready pipelines that integrate large language models with modern deep learning architectures and classical computer vision techniques."
-"My goal is to bridge rigorous research and real-world deployment—translating advances in machine learning, computer vision, and statistical modeling into reliable, interpretable, and high-impact AI systems that perform in production environments."
+  "I am a Data Scientist and Applied AI Researcher with a strong foundation in statistics, engineering, and analytics. My work spans machine learning, causal inference, deep learning, and computer vision, with a demonstrated ability to deliver end-to-end AI systems across both academic research and industry settings.",
+  "I have specialized experience in causal inference under endogeneity, using structural path models and dynamic response frameworks to uncover and validate causal mechanisms in complex observational data. More recently, my work has focused on AI engineering and applied research in deep learning and computer vision, where I design scalable, data-efficient vision–language systems and build production-ready pipelines that integrate large language models with modern deep learning architectures and classical computer vision techniques.",
+  "My goal is to bridge rigorous research and real-world deployment—translating advances in machine learning, computer vision, and statistical modeling into reliable, interpretable, and high-impact AI systems that perform in production environments.",
 ];
 
 export const EDUCATION: EducationItem[] = [
