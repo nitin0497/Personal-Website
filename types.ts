@@ -41,7 +41,6 @@ export interface Project {
   githubLink?: string;
   description: string;
   keyContributions?: { title?: string; items: string[] }[];
-  visualIds: string[]; // For the mandatory visual mapping
 }
 
 export interface ContactInfo {
